@@ -122,8 +122,3 @@ Realizarse de manera individual:
 
 ****
 
-## 7. Entregas
-
-- **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
-
-- **Cumple con los requisitos y entregables.** En caso de que no logres cumplir con todos, se te asignará un progreso proporcional a lo que lograste. Lo importante es que entregues siempre tu proyecto.
