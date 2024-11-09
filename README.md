@@ -1,6 +1,13 @@
-![Banner](./imagenes/banner.png)
+<h1 align="center">App restaurante</h1>
 
-# PROYECTO 4: Aplicación "Restaurante"
+<p align="center">Una app que puede ser implementada en servicios de restaurantes</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-2-brightgreen" alt="Contribuidores">
+</p>
+
 
 ## **ÍNDICE**
 
@@ -112,22 +119,6 @@ Realizarse de manera individual:
 ### DESPLIEGUE
 - [ ] Crear una URL para compartir (puedes utilizar Netlify o GitHub Pages) a través de `npm run build`.
 - [ ] Colocar descripción dentro del repositorio.
-
-### ENTREGA A TIEMPO
-- [ ] Entregar URL en plataforma antes de la fecha límite.
-
-****
-
-## 6. Criterios de evaluación
-
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA       | % DEL TOTAL |
-| ------------- |:-------------:|
-| UI      | 30%     |
-| REACT      | 50%     |
-| DESPLIEGUE | 10%      |
-| ENTREGA A TIEMPO | 10%      |
 
 ****
 
